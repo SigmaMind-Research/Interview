@@ -76,6 +76,7 @@ Your submission will be evaluated based on the following criteria:
 
 ## Deadline
 
-Please complete the task and submit your Git repository link by **25th December 2023**. If you encounter any issues or have questions, feel free to reach out to me. We look forward to reviewing your submission.
+**Please complete the task and submit your Git repository link by 25th December 2023. After completion of task please send the link of your git repo to gaurgulshan@sigmamind.xyz or you can create a pull request to this repo [submit branch].**  
+If you encounter any issues or have questions, feel free to reach out to me. We look forward to reviewing your submission.
 
 Happy coding!
