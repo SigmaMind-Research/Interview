@@ -47,6 +47,6 @@ Your submission will be evaluated based on the following criteria:
 - Quality and relevance of visualizations.
 
 ### Submission Deadline:
-Please submit your completed task by 8th Jan 2024. If you have any questions or need clarification, feel free to reach out. and pleaase create a public repo of submission and send the link to linkedin.
+Please submit your completed task by 10th Jan 2024 6:00PM. If you have any questions or need clarification, feel free to reach out. and pleaase create a public repo of submission and send the link to my linkedin.
 
 Good luck, and we look forward to reviewing your submission!
